@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/xXpuma99Xx/proyecto_5/issues"
   },
-  "homepage": "https://github.com/xXpuma99Xx/proyecto_5#readme"
+  "homepage": "https://github.com/xXpuma99Xx/proyecto_5#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-sass": "^4.1.0"
+  }
 }
